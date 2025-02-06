@@ -1,0 +1,38 @@
+ What is Java ?
+=> A java is a high-level object oriented programming language. It was developed by Sun Microsytem (now owned by Oracle Corporation) and released in 1995.
+
+Why java is known as platform independent language?
+=> A java is platform independent language because the code written in java can run in any device which has Java Virtual Machine (JVM).
+
+What does Automatic Memory Management means in java ?
+=> Means java has a built-in garbage collector that automatically manages memory, helping to prevent memory leaks and other related issues.
+
+What is multithreading in java ?
+=> Java supports multithreadng allowing concurrent execution of two or more threads, which can improve performance of application.
+
+
+What is Java sandbox?
+=> Java sandbox is a built-in security feature which helps to protect against malicious code.
+
+What are the uses of Java program ?
+=> Java is used in web development, Mobile Application, Enterprise Application, Desktop Application, Embedded Systems, Game Development, Big Data Technologies, Cloud Computing, etc.
+
+What is JVM ?
+=> It stands for Java Virtual Machine which helps us to execute of java bytecode, platform independent, memory management, security, performance optimization, exception handling, Thread Management, Interoperability, debugging and profing.JVM is a part of Java Virtual Machine.
+
+
+What is java bytecode ?
+=> Java bytecode is a intermediate representation of java source code compiled java compiler.
+
+What is JIT in JVM ?
+=> JIT stands for Just-In-Time compilation which is important feature of JVM  and compiles bytecode into native machine code at runtime which helps to improve the performance of java application.
+
+
+What is JRE ?
+=> JRE stands for Java Runtime Environment. It is part of Java Development Kit which provides necessary environment to run java application.
+
+What is JDK ?
+=> JDK stands for Java Development Kit which provides the tools and resources for developers to create, compile and run java application.
+
+JVM is part of JRE and JRE is a part of JDK.
+
