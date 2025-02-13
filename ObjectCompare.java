@@ -1,4 +1,4 @@
-// Comparing the numbers are same or not
+// Comparing the numbers are same or not throgh object
 
 class Object1{
     int number1;
