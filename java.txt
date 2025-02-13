@@ -34,5 +34,20 @@ What is JRE ?
 What is JDK ?
 => JDK stands for Java Development Kit which provides the tools and resources for developers to create, compile and run java application.
 
-JVM is part of JRE and JRE is a part of JDK.
+JVM with libraries is part of JRE and JRE is a part of JDK.
 
+There are four access modifier in java which are public, private, default and protected.
+
+Public => It helps to access from any class in any package.
+
+Protected => It helps to access within same package and also by subclasses even if they are in different package.
+
+default => It helps to access only within its own package.
+
+private => It helps to access only within its own class.
+
+JVM only understands bytecode which intermediate representation of java source code compiled by java compiler.
+
+In java it needs main method for compilation and run of the entire program.
+
+Java is WORA means Write Once and Run Anywhere.
