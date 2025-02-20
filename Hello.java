@@ -1,6 +1,6 @@
 public class Hello{
     public static void main(String args[]){
-        char c = 'a';
+        char  c= 'a';
         byte b = 0b000;
         int i = 129;
         float f = 5.4f;
@@ -8,6 +8,5 @@ public class Hello{
         short s = 129;
         double d = 15.5;
         boolean bool = true | false;
-        System.out.println(bool);
     }
 }
