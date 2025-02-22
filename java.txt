@@ -89,3 +89,7 @@ Primitive data types are the foundation of the programming language.
 Java is known as object oriented programming because everything in java should be an object. And object can be created using class.
 
 Java compiler is a part of JDK not JVM. But JIT is part of JVM. 
+
+UTF => It is known as Unicode Transformation Format.
+
+Java program uses unicode not ascii code.
