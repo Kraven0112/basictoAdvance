@@ -93,3 +93,16 @@ Java compiler is a part of JDK not JVM. But JIT is part of JVM.
 UTF => It is known as Unicode Transformation Format.
 
 Java program uses unicode not ascii code.
+
+Literals defines constant value of any variables in java. Like 
+int num = 20;
+ int number = 0b101; which is 5 inetger.
+
+
+ Binary in java = 0b
+ Hexadecimal in java = 0x
+ Octal in java = 0
+
+ There are two types of casting in java:
+ 1.Implicit casting: It means widening casting
+ 2.Explicit casting: It means narrowing casting
