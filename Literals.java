@@ -2,7 +2,7 @@ public class Literals {
 
     public static void main(String args[]){
         Addition a = new Addition();
-       int total =  a.add(122,122,122);
+       int total =  a.add(122_122,122_122,122_122);
        System.out.println("Total "+ total);
 
        
