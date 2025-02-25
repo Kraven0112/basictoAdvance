@@ -103,6 +103,23 @@ int num = 20;
  Hexadecimal in java = 0x
  Octal in java = 0
 
- There are two types of casting in java:
- 1.Implicit casting: It means widening casting
- 2.Explicit casting: It means narrowing casting
+ There are two types of conversion in java:
+ 1.Implicit conversion: It means widening
+ 2.Explicit conversion: It means narrowing and it is also type casting.
+
+ There are some conversion that we can't do in java like char to boolean, int to boolean.
+
+ When we use / divide symbol, we get quotient and when we use % modular symbol, we get remainder.
+
+ There are four types of operators in programming language:
+ Arithmetic operators 
+ Relational operators
+ Logical operators
+ Bitwise operators
+
+
+ ++num -> This is known as pre-increment, which increment value first then fetch value. 
+ --num -> This is known as pre-decrement, which decrement value first then fetch value.
+
+ num++ -> This is known as post=increment, which fetch value then increment the value.
+ num-- -> This is known as post-decrement, which fetch value then decrement the value.
