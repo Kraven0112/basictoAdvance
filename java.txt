@@ -116,6 +116,8 @@ int num = 20;
  Relational operators
  Logical operators
  Bitwise operators
+ Assignment Operator { = is assignment operator}
+ Ternary operators => It is short form of if-else statement
 
 
  ++num -> This is known as pre-increment, which increment value first then fetch value. 
