@@ -1,16 +1,26 @@
+import java.util.Scanner;
+
 public class Condition {
 
-    public static void main(String args[]){
-        int a = 20;
-        int b = 30;
-         
-        if(a>b)
-        {
-            System.out.println("a greater than b");
-        }
+    public static void main(String args[]) {
+        Scanner mc = new Scanner(System.in);
+
+        System.out.println("Enter a : ");
+        int a = mc.nextInt();
+
+        System.out.println("Enter b : ");
+        int b = mc.nextInt();
+
+        System.out.println("Enter c : ");
+        int c = mc.nextInt();
+
+        if (a > b && a > c)
+            System.out.println("a is a largest number.");
+        else if (b > c)
+            System.out.println("b is a largest number.");
         else
-        {
-            System.out.println("b is greater than a");
-        }
+            System.out.println("c is larget number.");
+
+        mc.close();
     }
 }

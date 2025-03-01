@@ -1,0 +1,48 @@
+Switch case in java is an alternative feature to execute one block of code according to the case or condition.
+
+There are different way to use switch as a statement and as an expression.
+
+1. Traditional way to use switch-case in java:
+
+switch (){
+    case 1:
+    //
+    break;
+
+    case 2:
+    //
+    break;
+
+    default:
+    //
+    break;
+}
+
+
+
+2. Using lambda expression in switch case:
+String result = ";
+
+result = switch(){
+    case 1 -> "happy";
+    case 2 -> "sad";
+    case 3 -> "scared";
+    default -> "Nothing happening";
+};
+
+
+
+
+
+3.Using yield in switch-case statement:
+
+String result = "";
+
+result = switch (){
+    case 1 : yield "happy";
+    case 2 : yield "sad";
+    case 3 : yield "scared";
+    default : yield "Nothing happened";
+};
+
+Using lambda expession and yield in switch case make code explicit and concise which can be more readable .
