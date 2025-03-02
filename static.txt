@@ -1,0 +1,3 @@
+static key in java defines it is for the class itself not for the instance of class.
+we can access it different class by using class.
+static does not belong to instance of class which make it unioque from another.

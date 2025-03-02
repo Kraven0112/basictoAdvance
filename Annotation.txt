@@ -1,0 +1,3 @@
+Annotations are the form of metadata that provide the data about program but are not the part of program itself.
+
+Examples of annotations are @Override, @Deprecated, etc.
