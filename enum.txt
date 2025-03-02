@@ -1,0 +1,7 @@
+Enum is a short form of enumeration. It is a powerful feature of java that helps to set related constants in type-safe and readable form. It helps to write concise code, error handling and error handling.
+
+Given below is a way to define the enum in java. 
+
+enum Day{
+    SUNDAY,MONDAY,TUESDAY,WEDNESDAY,THURSDAY,FRIDAY,SATURDAY;
+}
