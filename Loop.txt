@@ -1,0 +1,21 @@
+A technique which is used to do repeated work on the basis of any condition is called loop.
+ 
+ It is a most significant feature used in programming to do something repeatedly accoding to the given conditions.
+
+ There are the different types of loops in programming like for-loop, forEach-loop, while-loop, Do-while-loop, etc.
+
+Format of for loop: 
+for(initialize; condition; updaton)
+
+Format of Do-while loop:
+Do{
+    // executable code
+}while()
+
+
+Format while-loop for:
+while(){
+    // executable code
+
+    //updation
+}
