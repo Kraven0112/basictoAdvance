@@ -1,0 +1,18 @@
+A class in java is fundamental building block of object-oriented programming. It is also known as a blue print for creating the object and defines properties (attributes) and behavior (methods) that the object created from the class will have.
+
+// format of class in java programming
+
+class class_name{
+    
+}
+
+we use pascal naming convention when creating class in java and for method we generally use camel naming convention in java. 
+
+Pascal naming convention => class FibonacciSeries{
+
+    camel naming convention => public int totalSum(int a, int b){
+
+    }
+} 
+
+In java object is instance of class or also known as reference variable. Without class we can't create an object. JVM helps to create object in java programming.

@@ -1,0 +1,3 @@
+'...' this is called ellipsis. It is also known as variable numbers of an arguments. 
+ 
+ This one helps to pass more than two arguments in method to do any operation
