@@ -3,7 +3,6 @@ enum Day {
 }
 
 public class Enum {
-
     public static void main(String args[]) {
         Day today = Day.SUNDAY;
 
@@ -15,7 +14,6 @@ public class Enum {
             default:
                 yield "working days";
         };
-
         System.out.println(result);
     }
 }
