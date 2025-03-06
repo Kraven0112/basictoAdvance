@@ -34,7 +34,7 @@ result = switch(){
 
 
 
-3.Using yield in switch-case statement:
+3.Using yield in switch-case expession:
 
 String result = "";
 
