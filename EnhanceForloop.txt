@@ -1,0 +1,6 @@
+Enhance for loop is upgraded form of traditional for loop. 
+In traditional for loop we need initialization,condition and updation but in ehance for loop we don't need condition and updation.
+
+syntax for traditional for loop : for(initialization; condition; updation){}
+
+syntax of enhance for loop ; for(typecast variable : data collection){ }

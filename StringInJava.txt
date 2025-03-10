@@ -1,0 +1,17 @@
+In java String is an object of the java.lang.String class which represents sequence of the characters.
+
+String in java is immutable which means it cannot be changed.
+When se try to manipulate it , it simply creates new object. 
+
+And when we create string in java, it locates in heap area called string constant pool.
+
+If we have two String variables having same value, have reference of same object.
+
+JVM have two area to perform opertions: Stack and Heap.
+
+
+Stack and heap two fundamental memory areas used to store data automatically and manually.
+
+Stack stores data automatically by operating system. It is used for primitive data, function scope and object reference. It is faster because of its fixed size. If more space taken in stack it will be stack overflow.
+
+Heap stores data manually by programmer. It is used to store objects, arrays and large data structure. We can dynamically reallocate storage space to store data.

@@ -13,3 +13,5 @@ Array stores data using indexing technique which is very efficient.
 
  The process of creating 3D array in java
  int[][][] array = new array[layer][row][column];
+
+Jagged array -> It is an array which have dynamic element size in each row.

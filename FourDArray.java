@@ -23,7 +23,7 @@ public class FourDArray {
             for (int j = 0; j < row; j++) {
                 for (int k = 0; k < col; k++) {
                     for (int l = 0; l < depth; l++) {
-                        array[i][j][k][l] = layer + row + col + depth;
+                        array[i][j][k][l] = (int) ((Math.random() + 1) * 10);
                     }
                     System.out.println();
                 }
