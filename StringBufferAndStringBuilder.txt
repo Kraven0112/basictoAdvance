@@ -1,4 +1,4 @@
-StringBuffer and StringBuilder is java class used to create mutable string in java. It provides dynamic string method to manipulate string in java. 
+StringBuffer and StringBuilder is java class used to create mutable string in java. It provides dynamic string method to manipulate string in java.
 
 syntax to create StringBuffer and StringBuilder in java:
 StringBuffer string = new StringBuffer("Sushil");
