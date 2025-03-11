@@ -9,5 +9,49 @@ const allEmp = [
 const result1 = allEmp.every(emp => emp.isYoung == "YES")
 const result2 = allEmp.some(emp => emp.isYoung == "YES")
 
-console.log(result1)
-console.log(result2)
+// console.log(result1)
+// console.log(result2)
+
+
+
+const object = {
+    objName:"Table",
+    objSize:"12*12",
+    brand:"CEAT"
+}
+
+// Object.freeze(anyobject) method protects object from modification, deletion, addition of properties in an object.
+Object.freeze(object)
+
+// deletion of existed key-values
+delete object.objName
+
+// modification of existed properties
+object.objName = "Chair"
+
+// Add of new properties
+object.comfortable =true
+
+
+const dog = {
+    name:"Husky",
+    type:"siberian husky",
+    lifetime:"10 years"
+}
+
+// Object.seal(anyobject) method used to protect an object from deletion and addition of new properties but we can modify the existed properties in an object
+
+Object.seal(dog)
+
+// deletion of existed properties
+delete dog.lifetime
+
+// modify existed properties
+dog.name="Husky bhai"
+
+// add new properties
+dog.behavior = "friendly"
+
+console.log(dog)
+
+

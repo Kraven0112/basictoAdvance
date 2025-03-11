@@ -37,7 +37,7 @@ public class StringInJava {
         // using indexOf(String str)
         // It is used to find the index of first occurence of subString
         int index = str1.indexOf("Hello");
-        System.out.println("Index of first occurance of subString : " + index);
+        System.out.println("Index of first occurence of subString : " + index);
 
         // using isEmpty()
         // It is used to check whether string is empty or not.
@@ -91,7 +91,7 @@ public class StringInJava {
         System.out.println("Lowercase : " + lowercase);
 
         // using trim()
-        // It is used to remove whitespaces from the string
+        // It is used to remove leading and trailing whitespaces from the string
         String str3 = "   trim() method is used remove the leading and trailing white spaces from the string ";
         System.out.println("Before trim length :" + str3.length());
 
