@@ -1,0 +1,13 @@
+static variable is class-level variable that is shared among all instances of the class. 
+We use static keyword to create static variable in java.
+We can access static variable using className . We can also access static variable by using instacne of class but it is not static way to access it.
+
+Static way means static variable is class-level variable and must be accessed using class in java.
+
+syntax to initialize static variable in java:
+class Mobile{
+    static Sting brand = "Apple";
+    String name;
+}
+
+And we can easily use static variable in instance method in java.
