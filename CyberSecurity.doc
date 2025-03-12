@@ -1,0 +1,90 @@
+Fire Suppression is a technique used to control and extinguish the fire to protect server, physical systen and personnel from impact of fire .
+There are different methods used to  extinguish the fire like CO2, fire agents, etc.
+
+There are different types of fire classes according to American Standard:
+Class - A : Ordinary combustible
+Class - B : flammable gases and liquids
+Class - C : Electrical equipments
+Class - D : Combustible metals
+Class - E: Cooking oil and fat
+
+PASS method is used to extinguish fire using portable fire extinguisher.
+P : Pull the safety pin in the handle.
+A: Aim the nozzle at the base of the fire.
+S: Squeeze the lever slowly and evenly.
+S: Sweep fire from side to side
+
+Virtualization
+-> It is technology used to create virtual form of hard disks, operating system and application. It helps to create multiple virtual machine to run a single physical hardware.
+
+Hypervisor
+-> It is a virtualization technology that is used to create multiple vritual machine to run in a single physical hardware. There are two types of Hypervisors:
+    1. Bare Metal Hypervisor : It runs directly in physical hardware. Like VMware ESXi, Microsoft Hyper-V, etc
+    2. Hosted Hypervisor : It runs on the top of the existed operating system. Like Oracle VirtualBox, VMware Workstation, Parallel desktop, etc.
+
+
+Network Topology
+-> It is technology that defines how the devices are connected to each others and how the data flow is happening. There are different types of network topologies:
+    1.Bus topology : In this networking system all nodes (devices) are connected in common cable (known as bus).
+    2.Ring topology : In this networking system each node is connected with two other nodes in circular shape system.
+    3.Star topology : In this networking system all nodes are connected in central switch or hub.
+    4.Tree topology : In this networking system nodes are connected in hierarchical form.
+    5.Mesh topology : In this networking system all nodes are connected partially or fully. There are two types of mesh topologies:
+                        *Fully mesh topology : All nodes are interconnected with each node directly.
+                        *Partially mesh topology : In this networking system some nodes are connected directly, not all nodes.
+
+
+Power fluctuation
+It is situation of power instability. There are different types of power fluctuation:
+    1.Blackout : It defines Long loss of power.
+    2.Fault : It defines short loss of power.
+    3.Brownout : It defines Long low voltage.
+    4.Sag : It defines short low voltage.
+    5.Surge : It defines Long high voltage.
+    6.Spike : It defines Short high voltage.
+
+
+Router
+-> It is a network technology that is used to provide facility to the local devices in limited to connect with the internet. It uses radio waves to connect with local devices. It uses metric value to identify the best path to transfer data packet over the internet. 
+
+Bluetooth
+It is wireless short range technology used to exchange data and infromation between different devices. It uses 2.4 GHz bandwidth to share ot communicate with other devices. It is also used to communicate with different peripheral devices like headphones, earphones, mic, ect.
+There are different types of  cyber attack occur when we use bluetooth to share and communicate with other devices. Such as:
+    * Bluejacking : It is an attack where hacker sends unsocilited messages and videos to the bluetooth connected devices.
+    * Bluesnarfing : It is an attack where hacker get access of bluetooth turned on devices without. 
+    * Bluebugging : It is an attack where hacker hack the bluetooth connected device and get all control of that devices.
+
+
+Vulnerabilities
+-> It is a weakness or security flaw in system, application or process that can be exploited by cyber criminal to get unauthorized access, disrupt process and steal sensitive information or data.
+
+
+System Information and Event Management (SIEM)
+-> It is cyber security technology used to analyze and collect security related information from various sources of an organization's IT environment. This technology includes different security from servers, network devices, application, security system like firewall, intrusion detection system and intrusion prevention system.
+
+Security Orchestration Automation and Response (SOAR)
+-> It is also cyber security technology used to orchestrate automatic analyzing security system and give automatic response if there is security flaws in our system. This security system also includes Artificial Intelligence to analyze security system and response at right time to dismiss the vulnerability in our system.
+
+
+CLoud Computing
+-> It is computing model that provides different on-demand online services such servers, storage, database system, software and application. There are different types of cloud computing:
+    * Private Cloud Computing : This cloud system is only provided to a single organization to store data and information in database system.
+    * Public Cloud Computing : This cloud system can be used by different organizations to deploys data, information and application in the internet.
+    * Hybrid Cloud Computing : This cloud system can be used by single organization or multiple organizations.
+    * Community Cloud Computing : This cloud system is used by the organizations that have shared interest, goals, security requirements and compliance considerations. Like Hospital ,School, Bank, etc.
+
+
+There are three cloud computing model used for cloud services:
+    * IaaS : IaaS stands for Infrastructure as a Service. In this cloud computing system application, data, runtime, middleware and operating system are managed by an organization and rest services are provided by the cloud service provider company.
+    
+    * PaaS : PaaS stands Platform as a Service. In this cloud computing system application and data are managed by an organization and rest all services are managed by cloud computing provider company.
+
+    * SaaS : SaaS stands for Software as a Service. In this cloud computing system all services such as an application, data, runtime, middleware, operating system, storgae, database, virtualization, server and network are provided by cloud computing provider company.
+
+
+Vulnerability Scanning
+-> It is security process that scan Vulnerabilities in our system and alert our system to response against existed Vulnerabilities. It identifies Vulnerabilities and alert our system to respond quickly against it.
+
+Vulnerability Testing
+-> This is security process used to scan vulnerabilities deeply in our system. It is not only responsible for identifying vulnerabilities but also responsible for identifying the different impact of that vulnerabilities in our system.
+ 

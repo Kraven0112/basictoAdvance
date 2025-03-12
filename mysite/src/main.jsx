@@ -2,6 +2,7 @@ import { createBrowserRouter,RouterProvider } from "react-router-dom"
 import{createRoot} from "react-dom/client"
 import App from "./App"
 import './index.css'
+import './style.css'
 
 const route = createBrowserRouter([
   {
