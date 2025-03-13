@@ -88,3 +88,94 @@ Vulnerability Scanning
 Vulnerability Testing
 -> This is security process used to scan vulnerabilities deeply in our system. It is not only responsible for identifying vulnerabilities but also responsible for identifying the different impact of that vulnerabilities in our system.
  
+
+ Open System Interconnection (OSI)
+ -> It is network framework that divides network communication. It provides standardized way for diferent computer system and network system to communicate with each other. OSI model is developed by International Organization for Standardization (ISO). There are seven layers in OSI model:
+    1. Physical Layer : This layer deals with physical means of sending and receiving data between the devices such as ethernet cable and Wi-Fi.
+
+    2. Data Link Layer : This layer is responsible for error-free transfer of data between different devices in same network.
+
+    3. Network Layer : It is responsible for routing data packets in different networks.
+
+    4. Transport Layer : It ensures reliable data transfer between devices. It uses protocols like Transmission Control Protocol (TCP) and User Datagram Protocol (UDP) for reliable data transfer between the devices.
+
+    5. Session Layer : This layer is responsible for establishing, managing and terminating connection between different application and devices.
+
+    6. Presentation Layer : This layer is responsible for the format of receiving data such encryption, decryption and compression.
+
+    7. Application Layer : This layer is responsible for user interface and interaction, email services, file transfer, etc. It used several protocol to handle the function such as HTTPs, HTTP, DNS, DHCP, SMTP, etc.
+
+
+Network Protocol
+-> A network protocol is a set of rules or technique that ensures how the data transmitted, received and  interpreted across the network. There are different types of protocol in network system:
+    * TCP : TCP stands for Transmission Control Protocol that is connection oriented protocol to transfer data packet across the network.
+
+    * UDP : UDP stands for User Datagram Protocol that is connection less protocol used to transfer data packet across the network.
+
+    * HTTP and HTTPs : Hyper Text Transfer Protocol and Hyper Text Transfer Protocol Secure is used to share html data across the internet.
+
+    * ICMP : ICMP stands for Internet Control Message Protocol that is used for error reporting and diagnostic functions across the network system.
+
+    * ARP : It stands for Address Resolution Protocol that is used to convert IP address to MAC address. 
+
+    * DHCP : It stands for Dynamic Host Configuration Protocol that is used to assign IP address to the different local devices.
+
+
+IPsec
+-> IPsec stands for Internet Protocol Security that provides confidentiality, integrity and authenticity for IP packet traffic. It was integrated in IPv6 to enhance security by encrypting and authenticating IP packet.
+
+Port Number 
+-> Port Numbers are the techniques used to identify specific processes and services in the networked devices. There are three types of port numbers :
+    1. WellKnown Port Number : Range of well known port number is 0 - 1023. It is used for common network services http(80), https(443), SSH(22), SMTP (25), DNS (53), etc.
+
+    2. Registered Port Number : Range of registered port number is 1024 - 49151. It is used for application and services that needs specific ports.
+
+    3. Dynamic/Private Port Number : Range of dynamic/private port number is 49152 - 65535. It is used for temporary and ephemeral connections. These port are responsible for managing multiple concurrent network connection without conflict.
+
+
+Security Design Principle
+-> It is foundation of security that ensure the system and software are designed with security. The aim of this principle is to minimize the vulnerabilities and protect against different threats by integrating security measures. Key features of this principle:
+    * Defense in Depth
+    * Secure by default
+    * Separation of Duties
+    * Minimize attack surface
+
+
+KISS principle
+-> KISS stands for "Keep it simple, stupid". This principle emphasizes simplicity over complexity. And it suggests that systems, designs and solutions work best when they are kept simple and straightforward.
+Key features of this principle:
+    * Simplicity enhances usability
+    * Reduces complexity
+    * Enhance security
+    * Efficient Resource allocation
+    * Improves Maintainability
+
+
+Virtual Private Network (VPN)
+-> It is a network architecture that extends private network over the public network, such as internet by creating a secure and encrypted connection different devices. It helpa to send and receive data and information securely. Working process of VPN is given below:
+    Step - 1 : Connection establishment
+    Step - 2 : Data encryption
+    Step - 3 : IP address masking
+    Step - 4 : Data transmission
+
+Software Defined Network (SDN)
+-> A software system where our network system is initialized, controlled, managed and analyzed using the specific software. It helps to enhance flexibility, improve performance, etc.
+
+firewall
+-> Firewall is a security system designed to monitor, filter and control incoming and outgoing network traffic based on predetermined security rules.
+
+Trojan
+-> It is a malware used in program or file to get unauthorized access of other's system.
+
+Remote Access Trojan (RAT)
+-> Remote Access Trojan is a malware that is used to get admin access in the system.
+
+Network Access Control (NAC)
+-> It is network security system designed to identify the authorized and compliant devices are connected in the system to get access of the different data resources.
+
+CIA Triad
+-> CIA triad is security pillar used in cyber security principle to protect data and information from unauthorized access. CIA in depth:
+    * Confidentiality  : Confidentiality means secret of secret.
+    * Integrity : Integrity defines original data which are not changed.
+    * Availability : Availability defines that data and information must be accessed by the authorized person.
+
