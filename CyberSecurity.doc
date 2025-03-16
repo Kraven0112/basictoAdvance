@@ -201,7 +201,7 @@ Change Management
 -> It is process of monitoring and auditing the changes in our system that helps to ensure changes in suitable place to protect our system from different types of vulnerabilities. It also helps to mitigate and respond as fast as vulnerabilities identified in our system.
 
 Cryptography
--> A Cryptography is a practice and study of techniques to secure communication in thre presence of adversarial behavior. It creates message where the meaning is hidden. It involves the use of algorithm and protocol to protect confidentiality, integrity and authenticity of data and information.
+-> A Cryptography is a practice and study of techniques to secure communication in the presence of adversarial behavior. It creates message where the meaning is hidden. It involves the use of algorithm and protocol to protect confidentiality, integrity and authenticity of data and information.
 
 Cryptology
 -> It is science of securing communication.
@@ -273,4 +273,8 @@ Data destruction
     * Soft destruction : It includes deletion, formation and overwritten process to remove the data from the storage devices.
      
     * Hard destruction : It involves the device shredding, crushing and drilling to destroy internal components.
+
+Information Security Governance
+Training and Awareness
+-> Training and Awareness are the crucial part in cyber security. In cyber security training helps to learn skills to know how to protect data and information against fraud and attack. And awareness helps to change the working behavior of the organization. These both components help any organization to reduce insider risk and provide resilient culture to make better working environment.
 
