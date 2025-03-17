@@ -7,7 +7,7 @@ public class Conversion {
 
         System.out.println(f); //output will be 200000.0 which is float data type.
 
-        // Explicit conversion in java means type casting. It is also called to narrowing process. Given below are the explicit ocnversion of data:
+        // Explicit conversion in java means type casting. It is also called to narrowing process. Given below are the explicit conversion of data:
 
         // double -> long -> float -> int -> short -> byte
 

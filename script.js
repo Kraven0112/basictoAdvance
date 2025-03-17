@@ -52,6 +52,52 @@ dog.name="Husky bhai"
 // add new properties
 dog.behavior = "friendly"
 
-console.log(dog)
+// console.log(dog)
+
+// Converting string into hash code
+function hashCode(str) {
+    let hash = 0;
+    
+    for (let i = 0; i < str.length; i++) {
+        const char = str.charCodeAt(i);
+        hash =  hash + char;
+        hash = hash & hash; // Convert to 32-bit integer
+    }
+    return hash;
+}
+
+const string = "Hello, World!";
+// console.log(hashCode(string)); // Output: -1885530697
 
 
+
+// Retrieving original data from hash code
+
+function getOriginalData(target,credential){
+    for(const n of credential){
+        if(hashCode(n) === target){
+            return n
+        }
+    }
+    return null
+}
+
+const target = hashCode("Sushil")
+const credential  = ["Sushil","Chaudhary"]
+// console.log(getOriginalData(target,credential))
+
+
+// ASCII code of all character 
+
+const str = "Sushil"
+
+for(const char in str){
+    const asciicode = str.charCodeAt(char)
+    console.log("ASCII code of "+str.charAt(char) + " is "+asciicode)
+}
+
+console.log(0b101) // output is 35
+console.log(0o45) // output is 37
+console.log(0xA) // output is 10
+
+// In javascript we use 0b for binary, 0o for octal and 0x for hexadecimal

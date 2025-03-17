@@ -272,9 +272,202 @@ Data destruction
 -> It is a process of removing and rendering the data unreadable from the magnetic devices such as hard drives, tapes and other storage media. There are two types of data destructions:
     * Soft destruction : It includes deletion, formation and overwritten process to remove the data from the storage devices.
      
-    * Hard destruction : It involves the device shredding, crushing and drilling to destroy internal components.
+    * Hard destruction : It involves the device shredding, crushing and drilling to destroy internal components of the storage devices.
 
 Information Security Governance
 Training and Awareness
 -> Training and Awareness are the crucial part in cyber security. In cyber security training helps to learn skills to know how to protect data and information against fraud and attack. And awareness helps to change the working behavior of the organization. These both components help any organization to reduce insider risk and provide resilient culture to make better working environment.
 
+Social Engineering Cyber Attack
+-> It is cyber attack that relies on manipulating human psychology rather than exploiting the technical vulnerabilities. The main goal of this attack is to trick individuals and divulge the sensitive information such as login credentials, financial detail and other access of other system. There are different types of social engineering attack:
+    * Phishing : Attacker sends fake emails, messages and websites that appear legitimate to steal sensitive information such as login credentials, credit card number.
+
+    * Pretext : Attacker creates fabricated text or messages to gain the sensitive data and information of the individuals.
+
+    * Impersonation : Attacker pretends to be someone the victim knows and trusts such as coworker, manager or service provider.
+
+Ways to protect from social engineering attacks:
+    * Be skeptical : Verify the identity of anyone requesting sensitive information.
+    * Avoid clicking in suspicious links
+    * Use Multi-factor Authentication
+    * Report suspicious activity
+    * Educate yourself and others
+
+
+Certified in Cybersecurity (CC) Domain 5 links
+CC D5 Links:
+
+Data Classification https://en.wikipedia.org/wiki/Data_classification_(business_intelligence)
+
+Data Collection https://en.wikipedia.org/wiki/Data_collection
+
+Data Retention https://en.wikipedia.org/wiki/Data_retention
+
+Auditing and Logging https://en.wikipedia.org/wiki/Audit_trail
+
+Information security audit https://en.wikipedia.org/wiki/Information_technology_security_audit
+
+IT Audits https://na.theiia.org/standards-guidance/recommended-guidance/practice-guides/Pages/GTAG9.aspx
+
+NIST SP 800-115 https://nvlpubs.nist.gov/nistpubs/Legacy/SP/nistspecialpublication800-115.pdf
+
+Security Audits https://en.wikipedia.org/wiki/Information_technology_audit
+
+NIST SP 800-92 https://en.wikipedia.org/wiki/NIST_Special_Publication_800-92
+
+Change Management https://en.wikipedia.org/wiki/Change_management
+
+Security Assessments https://en.wikipedia.org/wiki/IT_security_assessment
+
+Vulnerability Assessments vs. Penetration Tests https://www.experts-exchange.com/articles/31793/Vulnerability-Assessments-versus-Penetration-Tests.html
+
+Security Awareness Training https://en.wikipedia.org/wiki/Internet_Security_Awareness_Training
+
+Data at rest https://en.wikipedia.org/wiki/Data_at_rest
+
+Data Destruction https://en.wikipedia.org/wiki/Data_erasure
+
+Data in transit https://en.wikipedia.org/wiki/Data_in_transit
+
+Data in use https://en.wikipedia.org/wiki/Data_in_use
+
+Data Protection Methods https://en.wikipedia.org/wiki/Data_protection
+
+Data Remanence https://en.wikipedia.org/wiki/Data_remanence
+
+Data loss prevention (DLP) software https://en.wikipedia.org/wiki/Data_loss_prevention_software
+
+Information Lifecycle https://en.wikipedia.org/wiki/Information_lifecycle_management
+
+Modern Encryption https://en.wikipedia.org/wiki/Cryptography#Modern_cryptography
+
+Cryptographic Nonce https://en.wikipedia.org/wiki/Cryptographic_nonce
+
+Cryptography https://en.wikipedia.org/wiki/Cryptography
+
+Digital Signatures https://en.wikipedia.org/wiki/Digital_signature
+
+Encryption https://en.wikipedia.org/wiki/Encryption
+
+Hashing https://en.wikipedia.org/wiki/Hash_function
+
+Hybrid Cryptosystem https://en.wikipedia.org/wiki/Hybrid_cryptosystem
+
+Initialization Vector https://en.wikipedia.org/wiki/Initialization_vector
+
+IPSec https://en.wikipedia.org/wiki/Ipsec
+
+Key Management https://en.wikipedia.org/wiki/Key_management
+
+One-Time Pad https://en.wikipedia.org/wiki/One-time_pad
+
+Pretty Good Privacy (PGP) https://en.wikipedia.org/wiki/Pretty_Good_Privacy
+
+Public Key Infrastructure https://en.wikipedia.org/wiki/Public_key_infrastructure
+
+Secure Defaults https://en.wikipedia.org/wiki/Secure_by_default
+
+Secure Design Principles https://en.wikipedia.org/wiki/Secure_by_design
+
+Security by Design Principles https://wiki.owasp.org/index.php/Security_by_Design_Principles
+
+Symmetric Encryption https://en.wikipedia.org/wiki/Symmetric-key_algorithm
+
+Transport Layer Security (TLS) https://en.wikipedia.org/wiki/Transport_Layer_Security
+
+Challenge-Response Authentication https://en.wikipedia.org/wiki/Challenge–response_authentication
+
+Extensible Authentication Protocol (EAP) https://en.wikipedia.org/wiki/Extensible_Authentication_Protocol
+
+Kerberos https://en.wikipedia.org/wiki/Kerberos_(protocol)
+
+RADIUS https://en.wikipedia.org/wiki/RADIUS
+
+Salting https://en.wikipedia.org/wiki/Salt_(cryptography)
+
+Session Management https://en.wikipedia.org/wiki/Session_(computer_science)
+
+TACACS https://en.wikipedia.org/wiki/TACACS
+
+Code Review and Testing https://en.wikipedia.org/wiki/Code_review
+
+Continuous Monitoring https://en.wikipedia.org/wiki/Continuous_monitoring
+
+Kali Linux https://www.kali.org/
+
+Application Positive-listing https://en.wikipedia.org/wiki/Whitelist
+
+Configuration Management https://en.wikipedia.org/wiki/Configuration_management
+
+Endpoint Security https://en.wikipedia.org/wiki/Endpoint_security
+
+Keystroke Logging https://en.wikipedia.org/wiki/Keystroke_logging
+
+Logging and Monitoring https://en.wikipedia.org/wiki/Log_management
+
+Patch Management https://en.wikipedia.org/wiki/Patch_(computing)
+
+Sandboxing https://en.wikipedia.org/wiki/Sandbox_(computer_security)
+
+Security Tools https://sectools.org/
+
+SIEM Article https://www.experts-exchange.com/articles/32316/What-Gives-SIEM-a-Good-Name.html
+
+Software deployment https://en.wikipedia.org/wiki/Software_deployment
+
+Database security https://en.wikipedia.org/wiki/Database_security
+
+Databases https://en.wikipedia.org/wiki/Database
+
+2021 OWASP Top 10 https://owasp.org/Top10/
+
+Application Security https://en.wikipedia.org/wiki/Application_security
+
+Buffer Overflow https://en.wikipedia.org/wiki/Buffer_overflow
+
+CI/CD https://en.wikipedia.org/wiki/CI/CD
+
+DevOps https://en.wikipedia.org/wiki/DevOps
+
+Integrated Development Environment https://en.wikipedia.org/wiki/Integrated_development_environment
+
+Integrated Product Team https://en.wikipedia.org/wiki/Integrated_product_team
+
+OWASP https://en.wikipedia.org/wiki/OWASP
+
+OWASP Main Page https://owasp.org/
+
+OWASP Top 10 https://owasp.org/www-project-top-ten/2017/
+
+OWASP Vulnerability Category https://owasp.org/www-community/vulnerabilities/
+
+Secure SDLC Principles and Practices https://www.experts-exchange.com/articles/33288/Secure-SDLC-Principles-and-Practices.html
+
+Software Configuration Management https://en.wikipedia.org/wiki/Software_configuration_management
+
+Software Vulnerabilities https://en.wikipedia.org/wiki/Software_vulnerability
+
+Source-Code Security https://en.wikipedia.org/wiki/Source_code
+
+Metasploit https://metasploit.com/
+
+Nessus Software https://en.wikipedia.org/wiki/Nessus_(software)
+
+Password Cracking https://en.wikipedia.org/wiki/Password_cracking
+
+Rainbow Table https://en.wikipedia.org/wiki/Rainbow_table
+
+Incident Handling and Response Plan https://www.experts-exchange.com/articles/31763/Incident-Handling-and-Response-Plan.html
+
+Phishing https://en.wikipedia.org/wiki/Phishing
+
+Ransomware https://en.wikipedia.org/wiki/Ransomware
+
+Security information and event management (SIEM) https://en.wikipedia.org/wiki/Security_information_and_event_management
+
+Security orchestration, automation and response (SOAR) https://en.wikipedia.org/wiki/Security_orchestration
+
+History of Cryptography https://en.wikipedia.org/wiki/History_of_cryptography
+
+Scytale
+-> It is an ancient cryptographic tool used for transportation of cipher (an cryptographic algorithm used to encrypt plain or readable text into cipher test or encrypted text) 
